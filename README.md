@@ -1,7 +1,5 @@
 <h1>Charlie Adams</h1>
 I'm a Full-Stack Developer with 12+ years of experience creating data-driven web apps. I enjoy front-end development the most, but I have been known to make some pretty nice SQL queries. 
-</br>
-</br>
 
 ---
  
